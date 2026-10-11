@@ -397,5 +397,3 @@ BS Computer Science
 FAST National University of Computer & Emerging Sciences (FAST-NUCES)
 
 ---
-
-⭐ If you find this project useful, consider giving the repository a star.
